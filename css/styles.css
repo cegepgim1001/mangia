@@ -1,0 +1,35 @@
+/*
+body {
+	background-color: pink;
+}
+*/
+
+img:hover{
+	background-color: gold;
+}
+
+h1 {
+	color: blue;
+	font-size: 30px;
+}
+
+/************************************CLASS  SELECTORS************************/
+.bacon {
+	background-color: green;
+	font-size: 15px;
+}
+.broccoli {
+	background-color: red;
+}
+.circular{
+	border-radius: 100%;	
+}
+
+/************************************ID  SELECTORS************************/
+#heading {
+	color: pink;
+}
+
+
+
+
